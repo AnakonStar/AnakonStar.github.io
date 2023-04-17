@@ -46,18 +46,18 @@ Mobile
 .qr-container {
   width: 85%;
   padding: 18px;
-  display: flexible;
+  display: flex;
   border-radius: 5%;
   background-color: hsl(0, 0%, 100%);
   flex-direction: column;
-  alignment-items: center;
+  align-items: center;
 } 
 ```
 
 Desktop
 
 ```css
-@mediascreen e (minimum width: 375px) {
+@mediascreen and (min-width: 375px) {
   .qr-container {
       width: 16%;
   }
