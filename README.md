@@ -73,8 +73,8 @@ Maybe learn more about other ways to make a website, how to use React.js, Python
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=gRIWFYRaVto) - This video from Hostinger Brasil (yes, I'm Brazilian) helps me, as I said in What I learned, to understand more about responsive pages and how to implement them.
-- [Example resource 1](https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/#:~:text=VH%20is%20useful%20for%20creating,to%20viewport's%20width%20or%20height.) - This article, taught me about some differences about measurement units in CSS.
-- 
+- [Example resource 2](https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/#:~:text=VH%20is%20useful%20for%20creating,to%20viewport's%20width%20or%20height.) - This article, taught me about some differences about measurement units in CSS.
+
 ## Author
 
 - LinkedIn - [Enzo Santana](https://www.linkedin.com/in/enzo-lima-357a27261)
