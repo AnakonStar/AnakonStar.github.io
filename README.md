@@ -73,7 +73,7 @@ Maybe, learn more about other ways to do a website, like using React.js, Python,
 
 ## Author
 
-- LinkedIn - [Enzo Santana](https://www.your-site.com)
+- LinkedIn - [Enzo Santana](https://www.linkedin.com/in/enzo-lima-357a27261)
 - GitHub - [AnakonStar](https://github.com/AnakonStar)
 - Frontend Mentor - [@AnakonStar](https://www.frontendmentor.io/profile/AnakonStar)
 - Workana - [Enzo Santana](https://www.workana.com/freelancer/4c2cdd8b9e92d8b32763edc91d6cde18)
