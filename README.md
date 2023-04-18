@@ -75,7 +75,7 @@ Maybe learn more about other ways to make a website, how to use React.js, Python
 
 - [Example resource 1](https://www.youtube.com/watch?v=gRIWFYRaVto) - This video from Hostinger Brasil (yes, I'm Brazilian) helps me, as I said in What I learned, to understand more about responsive pages and how to implement them.
 - [Example resource 2](https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/#:~:text=VH%20is%20useful%20for%20creating,to%20viewport's%20width%20or%20height.) - This article, taught me about some differences about measurement units in CSS.
-- [Example resource 3](https://laylacodes.hashnode.dev/what-is-semantic-html) - I update the code with Semantic HTML thanks to @ecemgo post on my solution.
+- [Example resource 3](https://laylacodes.hashnode.dev/what-is-semantic-html) - I update the code with Semantic HTML thanks to [@ecemgo](https://www.frontendmentor.io/profile/ecemgo) post on my solution.
 
 ## Author
 
